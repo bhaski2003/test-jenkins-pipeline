@@ -1,0 +1,89 @@
+body{
+    background-color:bisque;
+    font-family: "Arial"; font-size: 24px; font-style : bold ; font-variant: normal; font-weight: 700; line-height: 26.4px;
+
+}
+
+.CN{
+    background-color: aqua;
+    padding:3%;
+    padding:rgb(6, 255, 159);
+    font-family: Consolas;
+}
+
+.OS{
+    background-color:violet;
+    padding:4.6%;
+    padding:white;
+    font-family: Consolas;
+}
+
+.MPCA{
+    background: white;
+    padding:4%;
+    padding:red;
+    font-family: Consolas;
+}
+
+.DAA{
+    background: #f60b0bf1;
+    padding:4%;
+    padding:red;
+    font-family: Consolas;
+}
+
+.cp{
+    background-color: lawngreen;
+    padding:4%;
+    padding:rgb(255, 0, 0);
+    font-family: Consolas;
+}
+
+hh{
+    background-color:lightgreen;
+    /* font-family:Consolas; */
+    position:sticky;
+    top:18px;
+    font-size:xx-large;
+}
+
+#vibe
+{
+    background-color: orange;
+}
+
+ 
+div
+{
+    background-color: cornflowerblue; 
+    text-decoration-color: white;
+}
+ 
+
+ 
+
+ab{
+    text-align: center;
+    text-size-adjust:calc(20px);
+    /* font-family: Consolas; */
+}
+
+img{
+    background-color:rgb(17, 3, 79)
+}
+
+img#2
+{
+    position: relative;
+    bottom: 30px;
+}
+
+.foo{
+    background-color: rgba(11, 10, 10, 0.985);
+    color: white;
+    text-align: center;
+}
+
+.fa fa-heart{
+    background-color: red;
+}
